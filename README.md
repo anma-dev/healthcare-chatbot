@@ -18,7 +18,7 @@ AI-Healthcare-chatbot is an innovative healthcare chatbot that utilizes state-of
 
 To get started with AI-Healthcare-chatbot, follow the instructions below:
 
-1. Clone the repository: `git clone https://github.com/mmubarak0/AI-Healthcare-chatbot.git && cd AI-Healthcare-chatbot`
+1. Clone the repository: `git clone https://github.com/anma-dev/AI-Healthcare-chatbot.git && cd AI-Healthcare-chatbot`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run the chatbot: `python main.py`
 4. Start interacting with HealthBot in your preferred chat interface (e.g., web browser, chat client, etc.)
@@ -33,6 +33,6 @@ We would like to express our gratitude to the developers of the GPT models and t
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, please feel free to reach out to us at [modymu9@gmail.com](mailto:modymu9@gmail.com) or [open an issue](https://github.com/mmubarak0/AI-Healthcare-chatbot/issues) in the repository.
+If you have any questions, feedback, or suggestions, please feel free to reach out to us or [open an issue](https://github.com/anma-dev/AI-Healthcare-chatbot/issues) in the repository.
 
 Join us in our mission to democratize access to personalized healthcare information and empower users to make informed health decisions with HealthBot!
